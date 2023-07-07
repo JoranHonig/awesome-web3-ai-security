@@ -4,7 +4,8 @@
 
 ### Tools 
 * [GitHub Copilot Chat](https://github.com/features/preview/copilot-x)
-* [slither - codex](https://github.com/crytic/slither)
+* [slither - codex](https://github.com/crytic/slither) - [Codex bug detector](https://github.com/crytic/slither/wiki/Detector-Documentation#codex)
+* [slither-documentation](https://github.com/crytic/slither-docs-action) - Write documentation for your code in pull requests using Slither and OpenAI.
 
 ### Blogs
 * https://www.zellic.io/blog/can-gpt-audit-smart-contracts
