@@ -13,6 +13,7 @@
 * https://slowmist.medium.com/how-effective-is-gpt-for-auditing-smart-contracts-cdeddfa76dbe
   
 ### Papers
+* ⚠️ https://arxiv.org/pdf/2304.12749.pdf
 * ⚠️ https://arxiv.org/pdf/2306.12338.pdf
 
 
