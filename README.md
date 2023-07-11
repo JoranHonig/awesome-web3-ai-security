@@ -11,6 +11,8 @@
 * https://www.zellic.io/blog/can-gpt-audit-smart-contracts
 * https://blog.trailofbits.com/2023/03/22/codex-and-gpt4-cant-beat-humans-on-smart-contract-audits/
 * https://slowmist.medium.com/how-effective-is-gpt-for-auditing-smart-contracts-cdeddfa76dbe
+* https://www.certik.com/resources/blog/6oBs1st22AsSYxpF7ENoiX-auditing-with-chatgpt-complementary-but-incomplete
+* https://zkasino.medium.com/zkasino-pre-audit-by-chatgpt-89969730cc79
   
 ### Papers
 * ⚠️ https://arxiv.org/pdf/2304.12749.pdf
