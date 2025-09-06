@@ -7,6 +7,7 @@
 * [slither - codex](https://github.com/crytic/slither) - [Codex bug detector](https://github.com/crytic/slither/wiki/Detector-Documentation#codex)
 * [slither-documentation](https://github.com/crytic/slither-docs-action) - Write documentation for your code in pull requests using Slither and OpenAI.
 * [VSCode Solidity AI](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-ai) - an AI auditing assistant
+* [Hive Intelligence](https://github.com/hive-intel/hive-crypto-mcp) - Hive Intelligence: Ultimate cryptocurrency MCP for AI assistants with unified access to crypto, DeFi, and Web3 analytics, security analysis. hive's remote mcp server guide [remote server](https://hiveintelligence.xyz/crypto-mcp).
 
 ### Blogs
 * https://www.zellic.io/blog/can-gpt-audit-smart-contracts
