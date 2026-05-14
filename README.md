@@ -7,6 +7,7 @@
 * [slither - codex](https://github.com/crytic/slither) - [Codex bug detector](https://github.com/crytic/slither/wiki/Detector-Documentation#codex)
 * [slither-documentation](https://github.com/crytic/slither-docs-action) - Write documentation for your code in pull requests using Slither and OpenAI.
 * [VSCode Solidity AI](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-ai) - an AI auditing assistant
+* [Sharpe MCP Server](https://www.sharpe.ai/docs/mcp-server) - AI-agent interface for live crypto market intelligence, including funding, futures, options, arbitrage, and narratives.
 
 ### Blogs
 * https://www.zellic.io/blog/can-gpt-audit-smart-contracts
