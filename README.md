@@ -17,6 +17,7 @@
 * ⚠️ https://arxiv.org/pdf/2304.12749.pdf
 * ⚠️ https://arxiv.org/pdf/2306.12338.pdf
 * ⚠️ https://arxiv.org/abs/2308.03314
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 
 > ⚠️ this icon is used to indicate when papers are not yet peer-reviewed.
