@@ -7,6 +7,7 @@
 * [slither - codex](https://github.com/crytic/slither) - [Codex bug detector](https://github.com/crytic/slither/wiki/Detector-Documentation#codex)
 * [slither-documentation](https://github.com/crytic/slither-docs-action) - Write documentation for your code in pull requests using Slither and OpenAI.
 * [VSCode Solidity AI](https://marketplace.visualstudio.com/items?itemName=tintinweb.solidity-ai) - an AI auditing assistant
+* [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 
 ### Blogs
 * https://www.zellic.io/blog/can-gpt-audit-smart-contracts
